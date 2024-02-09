@@ -1,0 +1,23 @@
+table.tabla3{
+    border: black 1px solid;
+    width: 10%;
+    height: 10%;
+}
+td.black {
+    border: black 1px solid;
+    text-align: center;
+}
+td.blackB {
+    border: black 1px solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+table.tabla2{
+    border: black 1px solid;
+    width: 10%;
+    height: 10%;
+    right: 30%;
+    margin-right: 20%;
+    
+}
